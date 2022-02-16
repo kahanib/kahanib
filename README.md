@@ -1,6 +1,10 @@
 ### Check out my blog:
 ### https://kahanib.github.io/
 
+### My last post:
+Simple Algorithmic Trading: https://kahanib.github.io/2022/02/10/simple-algorithmic-trading.html
+
+
 <!--
 **kahanib/kahanib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
